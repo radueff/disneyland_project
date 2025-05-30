@@ -1,6 +1,6 @@
 # visual.py
 # Draws charts with matplotlib
-
+#
 import matplotlib.pyplot as plt
 from calendar import month_abbr
 import process
