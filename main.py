@@ -1,6 +1,6 @@
 # main.py
 # Starts the program, loads data, shows menus and acts on your choices.
-# fixing bugs
+## fixing bugs
 # make some changes
 import tui
 import process
